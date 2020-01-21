@@ -1,0 +1,14 @@
+E:\CURSOS\SpotifyAppApiRest\SpotifyApp.DataAccess\bin\Debug\netcoreapp2.2\SpotifyApp.DataAccess.deps.json
+E:\CURSOS\SpotifyAppApiRest\SpotifyApp.DataAccess\bin\Debug\netcoreapp2.2\SpotifyApp.DataAccess.runtimeconfig.json
+E:\CURSOS\SpotifyAppApiRest\SpotifyApp.DataAccess\bin\Debug\netcoreapp2.2\SpotifyApp.DataAccess.runtimeconfig.dev.json
+E:\CURSOS\SpotifyAppApiRest\SpotifyApp.DataAccess\bin\Debug\netcoreapp2.2\SpotifyApp.DataAccess.dll
+E:\CURSOS\SpotifyAppApiRest\SpotifyApp.DataAccess\bin\Debug\netcoreapp2.2\SpotifyApp.DataAccess.pdb
+E:\CURSOS\SpotifyAppApiRest\SpotifyApp.DataAccess\bin\Debug\netcoreapp2.2\SpotifyApp.BusinessEntities.dll
+E:\CURSOS\SpotifyAppApiRest\SpotifyApp.DataAccess\bin\Debug\netcoreapp2.2\SpotifyApp.BusinessEntities.pdb
+E:\CURSOS\SpotifyAppApiRest\SpotifyApp.DataAccess\obj\Debug\netcoreapp2.2\SpotifyApp.DataAccess.csprojAssemblyReference.cache
+E:\CURSOS\SpotifyAppApiRest\SpotifyApp.DataAccess\obj\Debug\netcoreapp2.2\SpotifyApp.DataAccess.AssemblyInfoInputs.cache
+E:\CURSOS\SpotifyAppApiRest\SpotifyApp.DataAccess\obj\Debug\netcoreapp2.2\SpotifyApp.DataAccess.AssemblyInfo.cs
+E:\CURSOS\SpotifyAppApiRest\SpotifyApp.DataAccess\obj\Debug\netcoreapp2.2\SpotifyApp.DataAccess.csproj.CopyComplete
+E:\CURSOS\SpotifyAppApiRest\SpotifyApp.DataAccess\obj\Debug\netcoreapp2.2\SpotifyApp.DataAccess.dll
+E:\CURSOS\SpotifyAppApiRest\SpotifyApp.DataAccess\obj\Debug\netcoreapp2.2\SpotifyApp.DataAccess.pdb
+E:\CURSOS\SpotifyAppApiRest\SpotifyApp.DataAccess\obj\Debug\netcoreapp2.2\SpotifyApp.DataAccess.csproj.CoreCompileInputs.cache

@@ -1,0 +1,9 @@
+E:\CURSOS\SpotifyAppApiRest\SpotifyApp.BusinessEntities\bin\Debug\netcoreapp2.2\SpotifyApp.BusinessEntities.deps.json
+E:\CURSOS\SpotifyAppApiRest\SpotifyApp.BusinessEntities\bin\Debug\netcoreapp2.2\SpotifyApp.BusinessEntities.dll
+E:\CURSOS\SpotifyAppApiRest\SpotifyApp.BusinessEntities\bin\Debug\netcoreapp2.2\SpotifyApp.BusinessEntities.pdb
+E:\CURSOS\SpotifyAppApiRest\SpotifyApp.BusinessEntities\obj\Debug\netcoreapp2.2\SpotifyApp.BusinessEntities.csprojAssemblyReference.cache
+E:\CURSOS\SpotifyAppApiRest\SpotifyApp.BusinessEntities\obj\Debug\netcoreapp2.2\SpotifyApp.BusinessEntities.AssemblyInfoInputs.cache
+E:\CURSOS\SpotifyAppApiRest\SpotifyApp.BusinessEntities\obj\Debug\netcoreapp2.2\SpotifyApp.BusinessEntities.AssemblyInfo.cs
+E:\CURSOS\SpotifyAppApiRest\SpotifyApp.BusinessEntities\obj\Debug\netcoreapp2.2\SpotifyApp.BusinessEntities.dll
+E:\CURSOS\SpotifyAppApiRest\SpotifyApp.BusinessEntities\obj\Debug\netcoreapp2.2\SpotifyApp.BusinessEntities.pdb
+E:\CURSOS\SpotifyAppApiRest\SpotifyApp.BusinessEntities\obj\Debug\netcoreapp2.2\SpotifyApp.BusinessEntities.csproj.CoreCompileInputs.cache

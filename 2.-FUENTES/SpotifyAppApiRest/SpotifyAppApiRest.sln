@@ -1,0 +1,43 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29709.97
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SpotifyAppApiRest", "SpotifyAppApiRest\SpotifyAppApiRest.csproj", "{B8F8BBD9-5A53-407D-A35C-BFD3B3FD4E61}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SpotifyApp.BusinessEntities", "SpotifyApp.BusinessEntities\SpotifyApp.BusinessEntities.csproj", "{8862D2D0-D17B-43CE-8B08-F3BE225D51EA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SpotifyApp.BusinessLogic", "SpotifyApp.BusinessLogic\SpotifyApp.BusinessLogic.csproj", "{0CE2309C-052B-49B1-84F5-4F1C708F8FCE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SpotifyApp.DataAccess", "SpotifyApp.DataAccess\SpotifyApp.DataAccess.csproj", "{D45D29B3-3D89-4FCA-B0E9-43C2A5D405FD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B8F8BBD9-5A53-407D-A35C-BFD3B3FD4E61}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B8F8BBD9-5A53-407D-A35C-BFD3B3FD4E61}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B8F8BBD9-5A53-407D-A35C-BFD3B3FD4E61}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B8F8BBD9-5A53-407D-A35C-BFD3B3FD4E61}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8862D2D0-D17B-43CE-8B08-F3BE225D51EA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8862D2D0-D17B-43CE-8B08-F3BE225D51EA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8862D2D0-D17B-43CE-8B08-F3BE225D51EA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8862D2D0-D17B-43CE-8B08-F3BE225D51EA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0CE2309C-052B-49B1-84F5-4F1C708F8FCE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0CE2309C-052B-49B1-84F5-4F1C708F8FCE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0CE2309C-052B-49B1-84F5-4F1C708F8FCE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0CE2309C-052B-49B1-84F5-4F1C708F8FCE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D45D29B3-3D89-4FCA-B0E9-43C2A5D405FD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D45D29B3-3D89-4FCA-B0E9-43C2A5D405FD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D45D29B3-3D89-4FCA-B0E9-43C2A5D405FD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D45D29B3-3D89-4FCA-B0E9-43C2A5D405FD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5F389B86-DFCC-44C4-B13A-F3CB2A7DBA24}
+	EndGlobalSection
+EndGlobal
